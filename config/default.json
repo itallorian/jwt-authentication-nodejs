@@ -1,0 +1,7 @@
+{   
+    "jwt": {
+        "key": "your-key-here",
+        "expirationTime": 86400
+    },
+    "port": 4848
+}
