@@ -1,7 +1,7 @@
 
-# Dotnet 6 WebAPI with JWT authentication
+# NodeJs Express WebAPI with JWT authentication
 
-Dotnet application with generation, validation and use of JWT tokens in bearer format during requests.
+Application with generation, validation and use of JWT tokens in bearer format during requests.
 
 
 ## References
